@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="89" viewBox="0 0 186 89">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-6 {
+        font-size: 13px;
+      }
+
+      .cls-1, .cls-4, .cls-5 {
+        fill: #0879c9;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        font-family: Arial;
+      }
+
+      .cls-2, .cls-6 {
+        fill: #4285f4;
+      }
+
+      .cls-12, .cls-13, .cls-14, .cls-15, .cls-2, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-9 {
+        font-size: 18px;
+      }
+
+      .cls-10, .cls-3, .cls-7 {
+        fill: #334858;
+      }
+
+      .cls-5 {
+        font-size: 22px;
+      }
+
+      .cls-8 {
+        font-size: 15px;
+      }
+
+      .cls-11, .cls-13 {
+        fill: #fbbc05;
+      }
+
+      .cls-11 {
+        stroke: #fefefe;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .cls-12 {
+        fill: #ea4335;
+      }
+
+      .cls-14 {
+        fill: #34a853;
+      }
+
+      .cls-15 {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <g id="Монтажная_область_1" data-name="Монтажная область 1">
+    <g id="Нижняя_панель_шапки" data-name="Нижняя панель шапки">
+      <image id="Layer_195_kопировать" data-name="Layer 195 kопировать" x="642" y="30" width="26" height="25" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAZCAYAAAAv3j5gAAACy0lEQVRIibXWW4hXVRgF8N9MZhfLyh5K1KQypoiuUIimViioY3Sjl4oMIuqpl6gofYge0oIwwijBqOiiD4KiiFgaEllEFMmEQVDQgyVGGmQ66mixYZ3heDz/mRj1gz/ntve39vettdf+d539/NdOUYzF+djVlq77FIHciVXYjMtOB9Ct+AAbMB/X4pG2vCMFmogV2ISHcW7t2zO44mSBLsEi/ISF+BL3Yj368Ve4eqE5cdT/BLg4CV/EBGzDsgCU2B6edgVkYSoeVNpwqutKa57ENHyD17EGhzvMuQbf4ovwNmCY1s3Oyt9HD57AXHzcAnILPsfT+BFvZ/491YA2oOuwFp/gJizBlXgn7Sst+C2L6M2c+zAjlV+KxfgHT4Wz4zi6Ph8ewz6sxFL8Eo6KwubUxo/HLDyA1bgRW7A7iz0S8McLnwXoqmj/0ajptVS0vZa0rPJXvNGovnRkNHZgXu39lGzgo6lsVBFD0f2rIbio5cAQvI04SkUb8TK+D8gPGFdb8TlR37EOIF0tXFeV/JvnQwVoJ97EmEyYVBGYKJvy7xaAo7me0fLtPEyvPR+pxPBeeBhT6T7xXQgfOCHV0NGduTdk1EBV8o4o5szaCvvwUgvI1Xgr8t6W+57GmGNxkb7cdzed4aLI8zM8hL3hsQKbGree0khctsCDNcup5ozLhu/t5Ax7ArIA78ZKCunPtYCIWy/OmN5Q0Zscf5T3TVOtVNKV66JUcTm2YvIQzExKJc9iZtq5scrVBKoAKsDl+BMfZqf/Hlvq1IWB+Nz+eOJgdDomLsRZ+AjrsifkaLg5Cm2CvJIFrsqJuz85yv+IVlPtDyfFVG+vgYgy745F7cyv3N+V1lZRQO7Ap/l2qE11P+cqfndbh6qHi6/Cb4mDba2reCpRzpnigeWIbkbho4xtc4YL0uLBnG2qO5jelihJ7h9hReVwLLmg/z9QkaYKB5K0JgAAAABJRU5ErkJggg=="/>
+      <image id="Layer_152_kопировать_2" data-name="Layer 152 kопировать 2" x="484" y="32" width="26" height="23" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAXCAYAAAAV1F8QAAACrUlEQVRIia3WW6hVVRQG4O9cPNr9JHYhjYSMKHypkCgypIJEwehBEQk1SjJ8LSKSCgolClILI3qKitSTXV8CexASsaAewuhURC9lRFmBeclLyoh/xWq3T3j26YfF3muuMeY/5xjjH3P2TXn4Iy30YRauxEX4EV/iaxPEYMu9Jn8Iy3EUP2MahvAynsJXvdI1RNdiBOfiQXyIAzgHN2At5mExPu2FqB8X4BUcwk14NqGaiU/wHObiIF6NfU9ES5OX+5KPwsW4HZflvUK2GpfHvieiu/A+drfGqyguSX4a7I7dsl6JZnZJ8tWYj6s6xkdxDV5PBMZFdAIDHePfYT+eSTU2KLvJCd8DrdD2dzx9nURVdV9klQMhLXyM2diAp7Eo32e3fMt2ClakiP7MeJH8ge3Y2SZ6KaG4A2+2Jjqc8NyW90Up9Qaltel4BFd0iVbtemEW/dc2i/ldPI9buzh8ELJN0VmDk5iEI3nfh1WZfFXE/iJmNDs6hkexA+9EuG/HsSrvzgj1zC6LONn6XwJ/L22rMJywP4b7m85QYvwlYlyZZ7yo6JzdItqMObgXu/oz2LVSxona3fGWy6FU5jd4fHCCk7dxafJ9MAtviM/D1P+T6AxcN8a3I/1jfPjbAN/i99MkK239kAL7B/6LaBsW4Ob8vjaGXTPH1pT2vNiPdDPqiyYavBDFVx9cFy3cHWE3mBS/aklbcE8E/EROgxU5MAtDTY6qtPfirPS5qv016XXS4S/E+hyS56cRj6aFPRmijbFfkpzVqXwjfm3fGYaz8sPRwkg6eINdEe9wdvE9fot2CiX2W1r21Xquzxn2U7vqyqmeJqSfdxB9VivLXaKNKpRquHs6iCpChdKRgcG51Zb+hdJAHeNFWLl4I7Efq/rKvu4S9VuH5Vu5Z1R0wClw95IJXONKMgAAAABJRU5ErkJggg=="/>
+      <text id="Оплата_" data-name="Оплата             " class="cls-1" x="679" y="49.999">Оплата            </text>
+      <text id="Доставка" class="cls-1" x="522.001" y="49.999">Доставка</text>
+      <path id="Прямоугольник_37_kопировать_7" data-name="Прямоугольник 37 kопировать 7" class="cls-2" d="M1735,1137h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Z" transform="translate(-1055 -1084)"/>
+      <path id="Прямоугольник_37_kопировать_9" data-name="Прямоугольник 37 kопировать 9" class="cls-2" d="M1577,1137h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Zm4,0h2v1h-2v-1Z" transform="translate(-1055 -1084)"/>
+      <text id="_7_727_364-50-55" data-name="+7 (727) 364-50-55" class="cls-3" x="268" y="35.001">+7 (727) 364-50-55</text>
+      <text id="_7_771_333-50-55" data-name="+7 (771) 333-50-55" class="cls-3" x="268.501" y="69.501">+7 (771) 333-50-55</text>
+      <image x="244" y="19" width="16" height="20" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAUCAYAAACEYr13AAABgElEQVQ4jY3UO0jVYRjH8Y9HgxO0pAVdsBoLXJqKWhocGppsEHSSXKNNcGsQJLAL1NRQbYXuTRHlIm5hg1BLEm2KgxBmeOGB5x9v/8752285vM/l+3+fy3l72tPLCrVwEsfT9ANbGtRXc41iAmfy/AYz/wNo4ynuoKfwj+MBfjcB4tp3MdnBv469phtE8iCmuvg/HwaIGwzjRGHbyzJ2sID9wwA3ivMSHqIXX/CpFh+9OoVvJeBSETCNjw0fPI8PGfeqApxN52ZJrukCLuJK3uB57srjABzL2A3sdkg+h7cJaaftSJa61SoCm5rVm43dr8XvBuBnGvozsK7vuIXbuJ++X7iHl63c99BANqmu+NLXLGM+42PpnlVNXMXlTJrFo8K+UoOt4Xr+qgAxlrE8X8PVrHcbN7FYALbLZLnK73ICpS0ARzHS0Ng/wUGc6+If6tLYvwCx+0/wosMo4z9SjvofVe9B1BZvwft8UE4n7HXTW1ACKkVC9CR2IgDViDsLBwg2SzDLJVUsAAAAAElFTkSuQmCC"/>
+      <path id="Прямоугольник_скругл._углы_631" data-name="Прямоугольник, скругл. углы 631" class="cls-4" d="M1302.22,1137.56h7.56a2,2,0,0,1,2,2v14.88a2,2,0,0,1-2,2h-7.56a2,2,0,0,1-2-2v-14.88A2,2,0,0,1,1302.22,1137.56Zm-0.94,2.1h9.44v13.65h-9.44v-13.65Zm4.19,14.68h1.06v1.07h-1.06v-1.07Z" transform="translate(-1055 -1084)"/>
+      <text id="_15_шт._2_569_876_тг." data-name="15 шт. 2 569 876 тг." class="cls-5" transform="translate(838.858 43.003)">15<tspan class="cls-6"> <tspan class="cls-7">шт.</tspan></tspan><tspan class="cls-8" dy="21.6">2 569 876<tspan class="cls-9"> <tspan class="cls-10">тг.</tspan></tspan></tspan></text>
+      <path class="cls-4" d="M1836.58,1114.52h7.09l7.87,21.21a2.534,2.534,0,0,0,2.28,1.61h21.54a2.53,2.53,0,0,0,2.3-1.54l6.59-17.42a2.328,2.328,0,0,0-1.37-3,2.451,2.451,0,0,0-.64-0.14,2.247,2.247,0,0,0-.58-0.07H1848.9l-1.39-3.75a2.337,2.337,0,0,0-2.14-1.52,2.186,2.186,0,0,0-.36-0.03h-8.43A2.325,2.325,0,1,0,1836.58,1114.52Zm17.39,14.32h21.32l-1.46,3.84H1855.4Zm24.73-9.02-1.65,4.37h-24.8l-1.62-4.37h28.07Zm-7.99,20.14a3.33,3.33,0,1,0,3.35,3.33A3.348,3.348,0,0,0,1870.71,1139.96Zm-12.56,0a3.33,3.33,0,1,0,3.36,3.33A3.34,3.34,0,0,0,1858.15,1139.96Z" transform="translate(-1055 -1084)"/>
+      <circle id="Эллипс_1" data-name="Эллипс 1" class="cls-11" cx="826.02" cy="33.005" r="8.61"/>
+      <image id="Слой_638" data-name="Слой 638" x="820" y="29" width="12" height="10" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAKCAYAAACALL/6AAAAqklEQVQYlY2QvQlCQRCEBzE0NrYKwQaUh7GBIKKBqRXYgTWIPWgJGtmCgZkigj/giz9Z3BU5f3gDe8fNzgzHCCgyPWABNIqIM+DIE6uS/iOTNJdUlZRLWltCHZgCnSS5Dew9+Qr0jbfFxskT0HRxCzg4fwMGEWTHDLj7cgdMgK2/83dxGCpAF7i4KPD6RmqIserCZOLht9ZSYgScgfGvmstJqUtJNb8/IekBkgNEj+pSzA8AAAAASUVORK5CYII="/>
+      <path id="Фигура_1" data-name="Фигура 1" class="cls-12" d="M1167.88,1137.53a17.734,17.734,0,0,0-5.18-13.06,18.59,18.59,0,0,0-25.75,0,17.813,17.813,0,0,0-5.13,13.06,16.794,16.794,0,0,0,5.23,12.69,18.769,18.769,0,0,0,25.51,0,17.088,17.088,0,0,0,5.32-12.69m3.97,0a19.025,19.025,0,0,1-6.65,15,23.146,23.146,0,0,1-30.74,0,19.087,19.087,0,0,1-6.61-15q-0.09-9.54,6.47-15.47a23.212,23.212,0,0,1,30.97,0Q1171.86,1128,1171.85,1137.53Z" transform="translate(-1055 -1084)"/>
+      <path id="Фигура_1_копия_4" data-name="Фигура 1 копия 4" class="cls-13" d="M1150.47,1152.23c4.16,0.47,8.82-2.57,10.6-4.37a15.075,15.075,0,0,0-.14-21.18c-1.96-1.94-6.17-4.67-10.46-4.26v29.81Z" transform="translate(-1055 -1084)"/>
+      <path id="Фигура_1_копия_3" data-name="Фигура 1 копия 3" class="cls-4" d="M1076.63,1158.39h-1.54a3.461,3.461,0,0,1-3.44-3.45v-25.26a8.524,8.524,0,0,1,5.11-7.88,8.047,8.047,0,0,1,3.3-.67,8.136,8.136,0,0,1,3.12.58,9.428,9.428,0,0,1,2.59,1.58,11,11,0,0,1,2.05,2.38,16.424,16.424,0,0,1,1.51,2.88l7.81,19.26,8.53-20.29a10.182,10.182,0,0,1,3.28-4.76,8.334,8.334,0,0,1,5.24-1.63,7.9,7.9,0,0,1,3.54.78,8.7,8.7,0,0,1,2.72,2.12,9.335,9.335,0,0,1,1.73,3.07,10.946,10.946,0,0,1,.61,3.61v24.23a3.423,3.423,0,0,1-3.44,3.45h-1.54a3.442,3.442,0,0,1-3.44-3.45v-16.73a3.43,3.43,0,0,1,.05-0.56v-7.4l-8.27,18.14q-0.81,1.8-1.62,3.3a11.641,11.641,0,0,1-1.8,2.56,7.241,7.241,0,0,1-2.3,1.64,7.683,7.683,0,0,1-3.16.59,6.679,6.679,0,0,1-3.05-.7,9.2,9.2,0,0,1-2.49-1.83,14.489,14.489,0,0,1-2-2.59,33.369,33.369,0,0,1-1.59-3.02l-8.12-17.77v7.08a3.435,3.435,0,0,1,.04.56v16.73a3.389,3.389,0,0,1-3.43,3.45" transform="translate(-1055 -1084)"/>
+      <path id="Фигура_1_копия_2" data-name="Фигура 1 копия 2" class="cls-14" d="M1128,1100.16c0.92,2.64,5.3,8.28,7.84,10.03,3.08,2.1,9.44,3.81,14.11,3.92-0.41-3.41-3.94-9.26-6.74-11.79-3.26-2.95-10.32-3.41-15.21-2.16m22.54,13.93c5.19,0.01,9.67-1.88,12.61-5.62a20.147,20.147,0,0,0,2.45-4.01c-4.08-.46-7.46-0.78-10.47,1.54-1.42,1.1-4.32,5.4-4.59,8.09m76.04,32.51v0.05a3.713,3.713,0,0,1,3.05,3.64v1.65a3.7,3.7,0,0,1-3.05,3.64v0.06h-3.18a4.625,4.625,0,0,1-8.85,0h-21.2a4.31,4.31,0,0,1-4.43,3.28c-2.47,0-4.47-1.72-4.47-3.84a2.746,2.746,0,0,1,.05-0.57,11.631,11.631,0,0,1-5.28-5.47,9.315,9.315,0,0,1-.92-4.03v-20.33a3.709,3.709,0,0,1,3.69-3.7h1.65a3.713,3.713,0,0,1,3.69,3.69v17.28c0,1.11-.1,2.98.75,3.86s2.65,0.79,3.6.79h34.9Z" transform="translate(-1055 -1084)"/>
+      <path id="Фигура_1_копия" data-name="Фигура 1 копия" class="cls-15" d="M1147.99,1134.97c-0.53-1.8-3.04-7.05-5.03-5.04-1.91,1.92,3.21,4.8,5.03,5.04m0.15,2.21c-1.71.41-7.23,2.98-5.08,5.05,2.08,2,4.52-3.49,5.08-5.05m-0.56-1.18c-1.33-.52-7.07-3.05-7.07,0,0,3,6.08.86,7.07,0" transform="translate(-1055 -1084)"/>
+    </g>
+  </g>
+</svg>

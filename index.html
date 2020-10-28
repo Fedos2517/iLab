@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iLab</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="stylesheet" href="1024.css">
+    <link rel="stylesheet" href="640.css">
+    <script src="dropdown.js"></script>
+</head>
+<body>
+    <div class="main">
+        <div class="wrapper">
+            <div class="header">
+                <img src="assets/images/headerburger.svg" class="hader__burger">
+                <div style="display: flex; align-items: center;">
+                <h3 class="header__text">О компании</h3>
+                <img src="assets/images/headerchevron.svg" class="header__chevron">
+            </div>
+                <h3 class="header__text">Новости</h3>
+                <h3 class="header__text">Акции</h3>
+                <h3 class="header__text">Вакансии</h3>
+                <h3 class="header__text">Контакты</h3>
+                <div style="display: flex; align-items: center;">
+                <h3 class="header__text">Ещё</h3>
+                <img src="assets/images/headerchevron.svg" class="header__chevron">
+                </div>
+                <div style="display: flex; align-items: center; margin-left: 145px;">
+                    <img src="assets/images/headermail.svg" class="hader__mail">
+                    <h3 class="header__text_big">Напишите нам</h3>
+                </div>
+                <div style="display: flex; align-items: center; margin-right: 20px;">
+                    <img src="assets/images/headerprofile.svg" class="header__profile">
+                    <h3 class="header__text_big">Личный кабинет</h3>
+                    </div>
+            </div>
+            <div class="header__lowerpanel">
+                <img src="assets/images/logo.svg" class="header__logo">
+                <div class="header__contacts">
+                    <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                        <img src="assets/images/stationaryphone.svg" class="header__stationary">
+                        <h3 class="header_phonenum">+7 (727) 364-50-55</h3>
+                    </div>
+                    <div style="display: flex; align-items: center;">
+                        <img src="assets/images/mobilephone.svg" class="header__mobile">
+                        <h3 class="header_phonenum">+7 (771) 330-50-55</h3>
+
+                    </div>
+                </div>
+                <div class="header__btn" style="display: flex;">
+                    <img src="assets/images/truck.svg" class="header__shipment">
+                    <h3 class="header__btn_text">Доставка</h3>
+                </div>      
+                <div class="header__btn" style="display: flex;">
+                    <img src="assets/images/money.svg" class="header__shipment">
+                    <h3 class="header__btn_text">Оплата</h3>
+                </div> 
+                <div class="header__cart">
+                    <img src="assets/images/headercart.svg" class="header__cart_img">
+                    <div class="header__cart_price">
+                       <div style="display: flex; align-items: baseline;"> <h3 class="header__quantity">15</h3><p>шт.</p> </div>
+                       <div style="display: flex; align-items: baseline;">  
+                        <h3 class="header__price" style="display: flex; align-items: baseline;">2&ensp;569&ensp;878</h3><p>тг.</p></div>
+                    </div>
+                </div>          
+            </div>
+            <div class="navigation">
+                <div class="navigation__left">
+                    <div class="dropdown">
+                        <div onclick="showDropdown()" class="dropbtn">
+                            <img src="assets/images/dropdonimage.svg" class="dropdown__img"  >
+                            <h3 class="dropdon__text">Каталог товаров</h3>
+                            <img src="assets/images/headerchevron.svg" class="dropdown__chevron">
+                        </div>
+                        <div id="Dropdown" class="dropdown-content">
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Овощи, фрукты, зелень, грибы</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box"> 
+                                <h3 class="dropdown-content__text">Молочные продукты, сыр, яйца</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron"></div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Мясо и птица</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Рыба, икра, морепродукты</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Колбасы, сосиски, деликатесы</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Крупы, макароны, бакалея</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Консервация, соусы, приправы</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Напитки, чай, кофе</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <h3 class="dropdown-content__text">Заморозка и готовые блюда</h3>
+                                <img src="assets/images/headerchevron.svg" class="dropdown-content__chevron">
+                            </div>
+                            <div href="#" class="dropdown-content__box">
+                                <img src="assets/images/dropdownlast.svg">
+                            </div>
+                        </div>
+                      </div>
+                </div>
+                <div class="navigation__right">
+                    <input type="text" class="navigation_input" placeholder="Поиск товаров">
+                    <img src="assets/images/search.svg" class="navigation_loupe">
+                    <div class="navigation__slider">
+                        
+                    </div>
+                    <div class="navigation__footer">
+                        <div class="navigation__footer_block">
+                            <img src="assets/images/truck.svg" class="navigation__footer__shipment">
+                            <h3 class="navigation_footer_text">Бесплатная<br/> доставка</h3>
+                        </div>
+                        <div class="navigation__footer_block">
+                            <img src="assets/images/list.svg" class="navigation__footer_quality">
+                            <h3 class="navigation_footer_text">Гарантия<br/> качества</h3>
+
+                        </div>
+                        <div class="navigation__footer_block">   
+                            <img src="assets/images/money.svg" class="navigation_footer_payment">                 
+                    <h3 class="navigation_footer_text">Удобная<br/> оплата</h3>
+                        </div>
+                        <div class="navigation__footer_block">     
+                            <img src="assets/images/headercart.svg" class="navigation__footer_cart">                   
+                                <h3 class="navigation_footer_text">Как<br/> купить?</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="new-items">
+                <h2 class="new-items__header">Новинки</h2>
+                <div class="new-items__row">
+                    <div class="new-items__item">
+                        <div class="new-items__photo1">
+                            <div class="new-items__newsign">Новинка</div>
+                            <div class="new-items__salesign">-20%</div>
+                        </div>
+                        <div class="new-item__name">Кукуруза консервированная "Bonduelle" 425мл </div>
+                        <div style="display: flex; align-items: baseline; margin-top: 24px; text-decoration: line-through;">
+                            <h3 class="new-item__old-price">600</h3>
+                            <p>тг/шт.</p>
+                        </div>
+                        <div style="display: flex; align-items: baseline; margin-top: 5px;">
+                            <h3 class="new-item__price">487</h3>
+                            <p class="new-item__price_p">тг/шт.</p>
+                        </div>
+                        <div class="new-item__nav">
+                            <div class="new-item__quantity">
+                                <button class="new-item_qty_btn">-</button>
+                                <h3 class="new-item__qty_text">12</h3>
+                                <button class="new-item_qty_btn">+</button>
+                            </div>
+                        <button class="new-item__buy">Купить</button>
+                        </div>
+                        <div class="new-item__footer">
+                            <div style="display: flex; align-items: center; margin-left: 15px;">
+                            <img src="assets/images/statsdisabled.svg" >
+                            <h3 class="new-item__text">Сравнить</h3></div>
+                            <div style="display: flex; align-items: center; margin-right: 15px;">
+                            <img src="assets/images/stardisabled.svg" >
+                            <h3 class="new-item__text">В избранное</h3></div>
+
+                        </div>
+                    </div>
+                    <div class="new-items__item">
+                        <div class="new-items__photo2">
+                             <div class="new-items__newsign">Новинка</div>
+                            </div>
+                            <div class="new-item__name">Голень индейки "Дамдi Ет" замороженная в вакууме 275 г</div>
+                            <div style="display: flex; align-items: baseline; margin-top: 5px; padding-top: 30px;">
+                                <h3 class="new-item__price">1 065</h3>
+                                <p class="new-item__price_p">тг/шт.</p>
+                            </div>
+                            <div class="new-item__nav">
+                                <div class="new-item__incart">
+                                    <img src="assets/images/headercart.svg" class="new-item__cartimg">
+                                    <h3 class="new-item__text">в корзине: 12 кг</h3>
+                                    <img src="assets/images/cancel.svg" class="new-item__close">
+                                </div>
+                            </div>
+                            <div class="new-item__footer"><div style="display: flex; align-items: center; margin-left: 15px;">
+                                <img src="assets/images/statsenabled.svg" >
+                                <h3 class="new-item__text">В сравнении</h3></div>
+                                <div style="display: flex; align-items: center; margin-right: 15px;">
+                                <img src="assets/images/starenabled.svg" >
+                                <h3 class="new-item__text">В избранном</h3></div></div>
+                    </div>
+                    <div class="new-items__item">
+                        <div class="new-items__photo3">
+                            <div class="new-items__newsign">Новинка</div>
+                        </div>
+                        <div class="new-item__name">Колбаса варёно-копчёная "Дамдi Ет" Премьерская в вакууме</div>
+                        <div style="display: flex; align-items: baseline; margin-top: 5px; padding-top: 30px;">
+                            <h3 class="new-item__price">5 187</h3>
+                            <p class="new-item__price_p">тг/шт.</p>
+                        </div>
+                        <div class="new-item__nav"> <div class="new-item__incart">
+                            <img src="assets/images/headercart.svg" class="new-item__cartimg">
+                            <h3 class="new-item__text">в корзине: 12 кг</h3>
+                            <img src="assets/images/cancel.svg" class="new-item__close">
+                        </div></div>
+                        <div class="new-item__footer"><div style="display: flex; align-items: center; margin-left: 15px;">
+                            <img src="assets/images/statsdisabled.svg" >
+                            <h3 class="new-item__text">Сравнить</h3></div>
+                            <div style="display: flex; align-items: center; margin-right: 15px;">
+                            <img src="assets/images/stardisabled.svg" >
+                            <h3 class="new-item__text">В избранное</h3></div></div>
+                    </div>
+                    <div class="new-items__item">
+                        <div class="new-items__photo4">
+                            <div class="new-items__newsign">Новинка</div>
+                        </div>
+                        <div class="new-item__name">Мед натуральный с соком грейпфрута</div>
+                        <div style="display: flex; align-items: baseline; margin-top: 5px; padding-top: 30px;">
+                            <h3 class="new-item__price">1 260</h3>
+                            <p class="new-item__price_p">тг/шт.</p>
+                        </div>
+                        <div class="new-item__nav">
+                            <div class="new-item__quantity">
+                                <button class="new-item_qty_btn">-</button>
+                                <h3 class="new-item__qty_text">12</h3>
+                                <button class="new-item_qty_btn">+</button>
+                            </div>
+                        <button class="new-item__buy">Купить</button>
+                        </div>
+                        <div class="new-item__footer"><div style="display: flex; align-items: center; margin-left: 15px;">
+                            <img src="assets/images/statsdisabled.svg" >
+                            <h3 class="new-item__text">Сравнить</h3></div>
+                            <div style="display: flex; align-items: center; margin-right: 15px;">
+                            <img src="assets/images/stardisabled.svg" >
+                            <h3 class="new-item__text">В избранное</h3></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="plates">
+                <div class="plates_row">
+                    <div class="plates_plate1">
+                        <div class="plates__div">Томатный кетчуп Heinz</div>
+                    </div>
+                    <div class="plates_plate2">
+                        <div class="plates__div">Майонез классический Провансаль</div>
+
+                    </div>
+                </div>
+                <div class="plates_row">
+                    <div class="plates_plate3">
+                        <div class="plates__div">Газированная вода Tassay</div>
+
+                    </div>
+                    <div class="plates_plate4">
+                        <div class="plates__div">Фанта Ананас</div>
+
+                    </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
